@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Monisha
 
-🎓 **Junior AI Engineer** at a USA-based IT company  
+🎓 **Junior AI Engineer** at a Mediusware (https://mediusware.com/)
+Previously Worked as a **Data Engineer** at SocioFi Technology (https://sociofi.io/)
 🔬 **AI Researcher** focusing on AI agent systems  
 🌍 Based in Dhaka, Bangladesh  
 🎯 Aspiring to join **FAANG** companies
