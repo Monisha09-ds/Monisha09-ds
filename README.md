@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Monisha
 
 🚀 **AI Systems Engineer | LLM Integration | RAG & Agent Architectures**  
-💼 Junior AI Engineer at [Mediusware](https://mediusware.com/)  
+💼 Software Engineer(I) -AI/ML domain  at [Mediusware](https://mediusware.com/)  
 💼 Former Data Engineer at [SocioFi Technology](https://sociofi.io/)  
 🎓 BSc in Information Technology, Jahangirnagar University  
 🌍 Based in Dhaka, Bangladesh  
