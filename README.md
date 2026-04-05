@@ -1,75 +1,100 @@
 # 👋 Hello, I'm Monisha
 
-🎓 **Junior AI Engineer** at a Mediusware (https://mediusware.com/)
-🎓 Previously Worked as a **Data Engineer** at SocioFi Technology (https://sociofi.io/)
-🎓 Completed My BSc from Institute of Information Technology ,Jahangirnagar University.
-🔬 **AI Researcher** focusing on AI agent systems  
+🚀 **AI Systems Engineer | LLM Integration | RAG & Agent Architectures**  
+💼 Junior AI Engineer at [Mediusware](https://mediusware.com/)  
+💼 Former Data Engineer at [SocioFi Technology](https://sociofi.io/)  
+🎓 BSc in Information Technology, Jahangirnagar University  
 🌍 Based in Dhaka, Bangladesh  
-🎯 Aspiring to join **FAANG** companies
+
+---
+
+## ⚡ What I Do
+
+- Design and deploy **AI-powered backend systems**
+- Build **RAG pipelines** with vector databases (FAISS, ChromaDB)
+- Develop **agentic workflows** using LangChain & LangGraph
+- Integrate **LLMs into production systems** via APIs and microservices
+- Optimize **latency, cost, and response quality** in AI applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### ⚙️ AI Systems & Backend
+- LangChain, LangGraph, LlamaIndex  
+- RAG Pipelines, Embeddings, Vector Search  
+- FAISS, ChromaDB, pgvector  
+- FastAPI, Django, Flask  
+- REST APIs, WebSockets, Microservices  
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7BAFD4?style=for-the-badge)
+### ☁️ Deployment & Infra
+- Docker  
+- AWS (S3)  
+- CI/CD (basic)  
 
-### 🧠 AI & NLP
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![LlamaIndex](https://img.shields.io/badge/Llama--Index-223344?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-0088cc?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FFB300?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-007ACC?style=for-the-badge)
+### 📊 LLMOps & Evaluation
+- Prompt Engineering  
+- RAG Evaluation (RAGAS / custom evaluation)  
+- Logging & Monitoring (basic)  
 
-### 🌐 Web & App
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 📈 Data Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
+### 👩‍💻 Programming
+- Python, JavaScript  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Stock Price Predictions](https://github.com/Monisha09-ds/Stock_Price_Predictions)
-Predicting stock prices using machine learning techniques.
-
-### 🔹 [Personal Portfolio Website](https://github.com/Monisha09-ds/SabikunMonisha.github.io)
-A personal website showcasing my projects and skills.
-
+### 🔹 AI-Powered RAG Chat System
+- Built a production-ready **RAG pipeline**
+- Pipeline: ingestion → chunking → embedding → vector search → LLM response  
+- Tech: FastAPI, LangChain, FAISS, OpenAI  
+- Features:
+  - Multi-document ingestion  
+  - Semantic search  
+  - API-based architecture  
 
 ---
 
+### 🔹 Multi-Agent AI Workflow System
+- Designed **agent orchestration system**
+- Planner → Tool → Executor architecture  
+- Integrated multiple tools for task automation  
+- Tech: LangGraph, LangChain  
+
+---
+
+### 🔹 AI Vehicle Assessment System (CarVU)
+- Developed end-to-end AI pipeline:
+  - Image analysis → scoring → valuation  
+- Integrated backend APIs for real-time processing  
+- Focus on **modular and production-ready design**  
+
+---
+
+## 🧠 System Design Focus
+
+- AI Pipeline Design (Ingestion → Embedding → Retrieval → Generation)  
+- Trade-offs:
+  - Latency vs Accuracy  
+  - Cost vs Performance  
+- Scalable backend architecture for AI systems  
+
+---
+
+## 🚧 Currently Working On
+
+- Improving RAG retrieval accuracy and evaluation  
+- Implementing LLMOps (monitoring, logging, cost tracking)  
+- Designing scalable AI agent systems  
+
+---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sabikunmonisha/)
-- [Email](mailto:sabikunmonisha01@gmail.com)
-- [Portfolio Website](https://monisha09-ds.github.io/SabikunMonisha.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/sabikunmonisha/)  
+- [Email](mailto:sabikunmonisha01@gmail.com)  
+- [Portfolio Website](https://monisha09-ds.github.io/SabikunMonisha.github.io/)  
 
 ---
 
-*“Striving for excellence in AI and aiming for the stars with FAANG.”*
+*Focused on building scalable AI systems that bridge research and real-world applications.*
