@@ -63,11 +63,6 @@
 
 ---
 
-### 🔹 AI Vehicle Assessment System (CarVU)
-- Developed end-to-end AI pipeline:
-  - Image analysis → scoring → valuation  
-- Integrated backend APIs for real-time processing  
-- Focus on **modular and production-ready design**  
 
 ---
 
