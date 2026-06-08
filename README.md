@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Monisha
 
 
-💼 Software Engineer(I) -AI/ML domain  at [Mediusware](https://mediusware.com/)  
+💼 Former Software Engineer(I) -AI/ML domain  at [Mediusware](https://mediusware.com/)  
 💼 Former Data Engineer at [SocioFi Technology](https://sociofi.io/)  
 🎓 BSc in Information Technology, Jahangirnagar University  
 🌍 Based in Dhaka, Bangladesh  
@@ -87,8 +87,8 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sabikunmonisha/)  
-- [Email](mailto:sabikunmonisha01@gmail.com)  
-- [Portfolio Website](https://monisha09-ds.github.io/SabikunMonisha.github.io/)  
+- [Email](mailto:itmonisha95@gmail.com)  
+- [Portfolio Website](https://monisha09-ds.github.io/Repo_chat/)  
 
 ---
 
