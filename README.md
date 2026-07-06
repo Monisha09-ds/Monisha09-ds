@@ -116,7 +116,7 @@ LangGraph • LangChain • Django • ChromaDB • FastAPI
 
 ---
 
-## Multi-RAG Framework
+## RAG System Orchestration
 
 A modular framework supporting multiple retrieval architectures.
 
@@ -199,7 +199,7 @@ Currently exploring
 # Research
 
 **Alzheimer's Detection Using Explainable Capsule Networks**
-
+[Link : {Springer Nature}]https://link.springer.com/chapter/10.1007/978-3-032-04657-4_2#citeas
 Published research exploring explainable AI techniques for medical diagnosis.
 
 ---
