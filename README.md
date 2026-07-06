@@ -196,12 +196,16 @@ Currently exploring
 
 ---
 
-# Research
+# 📚 Research
 
-**Alzheimer's Detection Using Explainable Capsule Networks**
-[Link : {Springer Nature}]https://link.springer.com/chapter/10.1007/978-3-032-04657-4_2#citeas
-Published research exploring explainable AI techniques for medical diagnosis.
+## Alzheimer's Detection Using Explainable AI in Capsule Networks
 
+**Title:** *Alzheimer's Detection Using XAI in Capsule Network and Post Detection Management with Portable Solution*
+
+This research explores the application of Explainable Artificial Intelligence (XAI) with Capsule Networks for Alzheimer's disease detection, focusing on improving model interpretability while proposing a portable post-detection management solution.
+
+📄 **Publication (Springer Nature):**  
+https://link.springer.com/chapter/10.1007/978-3-032-04657-4_2#citeas
 ---
 
 # Connect With Me
