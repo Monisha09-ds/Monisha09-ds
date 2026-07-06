@@ -1,95 +1,223 @@
 # 👋 Hello, I'm Monisha
 
+**AI Systems Engineer | Applied GenAI | Backend AI | RAG & Agentic Systems**
 
 💼 Former Software Engineer(I) -AI/ML domain  at [Mediusware](https://mediusware.com/)  
-💼 Former Data Engineer at [SocioFi Technology](https://sociofi.io/)  
+💼 Former Data Engineer at [SocioFi Technology](https://sociofitechnology.com/)  
 🎓 BSc in Information Technology, Jahangirnagar University  
 🌍 Based in Dhaka, Bangladesh  
 
----
+I enjoy designing AI systems that move beyond prototypes into maintainable, production-grade software by combining backend engineering, system design, and modern LLM technologies.
 
-## ⚡ What I Do
-
-- Design and deploy **AI-powered backend systems**
-- Build **RAG pipelines** with vector databases (FAISS, ChromaDB)
-- Develop **agentic workflows** using LangChain & LangGraph
-- Integrate **LLMs into production systems** via APIs and microservices
-- Optimize **latency, cost, and response quality** in AI applications
+📍 Dhaka, Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
+## Summary
 
-### ⚙️ AI Systems & Backend
-- LangChain, LangGraph, LlamaIndex  
-- RAG Pipelines, Embeddings, Vector Search  
-- FAISS, ChromaDB, pgvector  
-- FastAPI, Django, Flask  
-- REST APIs, WebSockets, Microservices  
+Software Engineer (AI) with **1.5+ years of industry experience** building end-to-end AI applications.
 
-### ☁️ Deployment & Infra
-- Docker  
-- AWS (S3)  
-- CI/CD (basic)  
+Experienced in developing production-ready RAG systems, agent orchestration frameworks, AI-powered backend services, and data ingestion pipelines. Worked on integrating LLMs into real-world applications with emphasis on scalability, latency optimization, retrieval quality, and cost-efficient deployment.
 
-### 📊 LLMOps & Evaluation
-- Prompt Engineering  
-- RAG Evaluation (RAGAS / custom evaluation)  
-- Logging & Monitoring (basic)  
-
-### 👩‍💻 Programming
-- Python, JavaScript  
+Currently expanding expertise toward **Backend AI Engineering, LLMOps, MLOps, and Distributed AI Systems**.
 
 ---
 
-## 📂 Featured Projects
+# Core Expertise
 
-### 🔹 AI-Powered RAG Chat System
-- Built a production-ready **RAG pipeline**
-- Pipeline: ingestion → chunking → embedding → vector search → LLM response  
-- Tech: FastAPI, LangChain, FAISS, OpenAI  
-- Features:
-  - Multi-document ingestion  
-  - Semantic search  
-  - API-based architecture  
+### Applied AI
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Multi-Agent Orchestration
+- Prompt Engineering
+- LLM Fine-tuning (LoRA)
+- AI Evaluation (RAGAS)
 
----
+### Backend Engineering
+- FastAPI
+- Django
+- GraphQL APIs
+- REST APIs
+- WebSocket
+- Microservices
+- Async Processing
 
-### 🔹 Multi-Agent AI Workflow System
-- Designed **agent orchestration system**
-- Planner → Tool → Executor architecture  
-- Integrated multiple tools for task automation  
-- Tech: LangGraph, LangChain  
+### AI Infrastructure
+- Docker
+- AWS S3
+- GitHub Actions
+- Redis
+- Celery
 
----
+### Databases
+- PostgreSQL
+- MySQL
+- ChromaDB
+- FAISS
+- Qdrant
+- Neo4j
 
-
----
-
-## 🧠 System Design Focus
-
-- AI Pipeline Design (Ingestion → Embedding → Retrieval → Generation)  
-- Trade-offs:
-  - Latency vs Accuracy  
-  - Cost vs Performance  
-- Scalable backend architecture for AI systems  
-
----
-
-## 🚧 Currently Working On
-
-- Improving RAG retrieval accuracy and evaluation  
-- Implementing LLMOps (monitoring, logging, cost tracking)  
-- Designing scalable AI agent systems  
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sabikunmonisha/)  
-- [Email](mailto:itmonisha95@gmail.com)  
-- [Portfolio Website](https://monisha09-ds.github.io/Repo_chat/)  
+### Frameworks
+- LangChain
+- LangGraph
+- HuggingFace
+- LiteLLM
+- LangSmith
+- Guardrails
 
 ---
 
-*Focused on building scalable AI systems that bridge research and real-world applications.*
+# Professional Experience
+
+## AI Engineer
+### Mediusware
+
+Worked on production AI systems involving LLM applications, backend services, and enterprise-scale automation.
+
+Highlights
+
+- Designed and developed production-grade Agentic AI systems using LangGraph and LangChain.
+- Built scalable Retrieval-Augmented Generation pipelines with semantic retrieval and evaluation.
+- Fine-tuned open-source LLMs using LoRA for domain-specific applications.
+- Optimized latency through embedding caching, prompt engineering, and retrieval improvements.
+- Developed backend APIs supporting AI workflows and intelligent automation.
+- Collaborated across backend, frontend, QA, and product teams to deliver production features.
+
+---
+
+## Data Engineer
+### SocioFi Technology
+
+- Developed automated ETL pipelines.
+- Processed large-scale structured and unstructured datasets.
+- Supported AI-ready data preparation pipelines.
+
+---
+
+# Featured Projects
+
+## AI Sales Assistant
+
+Production-ready multi-agent dealership assistant.
+
+### Features
+
+- Multi-agent architecture
+- Intelligent routing
+- Vehicle document understanding
+- Trade-in price estimation
+- Booking assistant
+- FAQ retrieval
+- Human escalation
+
+### Tech
+
+LangGraph • LangChain • Django • ChromaDB • FastAPI
+
+---
+
+## Multi-RAG Framework
+
+A modular framework supporting multiple retrieval architectures.
+
+Supports
+
+- Traditional RAG
+- Hybrid RAG
+- Graph RAG
+- Agentic RAG
+- Multimodal Retrieval
+- Session Memory
+- Local & API LLMs
+
+Tech
+
+LangChain • Whisper • TTS • Neo4j • Docker • ChromaDB
+
+---
+
+## LMS AI Assistant
+
+Enterprise chatbot for educational organizations.
+
+Highlights
+
+- AWS S3 ingestion
+- Semantic retrieval
+- Role-based access
+- Prompt versioning
+- Follow-up questioning
+- AI evaluation using RAGAS
+
+---
+
+## Nexivent
+
+Large-scale Event Management Platform
+
+Responsibilities
+
+- Multi-tenant backend development
+- GraphQL APIs
+- Graph RAG data pipeline
+- Redis & Celery orchestration
+- Async ingestion
+- Hierarchical document processing
+
+---
+
+# Areas of Interest
+
+- AI System Design
+- Distributed AI Systems
+- Backend Engineering
+- Agentic AI
+- LLMOps
+- MLOps
+- AI Infrastructure
+- Production Deployment
+- Performance Optimization
+- Scalable Microservices
+
+---
+
+# Current Learning
+
+Currently exploring
+
+- Kubernetes
+- MCP (Model Context Protocol)
+- AI Gateway Architecture
+- Distributed Inference
+- Advanced System Design
+- Go Backend Development
+- AWS Infrastructure
+- CI/CD for AI Applications
+
+---
+
+# Research
+
+**Alzheimer's Detection Using Explainable Capsule Networks**
+
+Published research exploring explainable AI techniques for medical diagnosis.
+
+---
+
+# Connect With Me
+
+📧 Email  
+**itmonisha95@gmail.com**
+
+💼 LinkedIn  
+https://linkedin.com/in/sabikunmonisha
+
+🌐 Portfolio  
+https://monisha09-ds.github.io/Repo_chat/
+
+💻 GitHub  
+https://github.com/Monisha09-ds
+
+---
+
+> *Building scalable AI systems that bridge machine learning research and production software engineering.*
