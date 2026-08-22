@@ -42,12 +42,12 @@ Currently expanding expertise toward **Backend AI Engineering, LLMOps, MLOps, an
 - Microservices
 - Async Processing
 
-### AI Infrastructure
+### DevOps
 - Docker
 - AWS S3
 - GitHub Actions
 - Redis
-- Celery
+
 
 ### Databases
 - PostgreSQL
@@ -57,7 +57,7 @@ Currently expanding expertise toward **Backend AI Engineering, LLMOps, MLOps, an
 - Qdrant
 - Neo4j
 
-### Frameworks
+### AI Frameworks
 - LangChain
 - LangGraph
 - HuggingFace
@@ -123,7 +123,6 @@ A modular framework supporting multiple retrieval architectures.
 Supports
 
 - Traditional RAG
-- Hybrid RAG
 - Graph RAG
 - Agentic RAG
 - Multimodal Retrieval
@@ -217,7 +216,7 @@ https://link.springer.com/chapter/10.1007/978-3-032-04657-4_2#citeas
 https://linkedin.com/in/sabikunmonisha
 
 🌐 Portfolio  
-https://monisha09-ds.github.io/Repo_chat/
+https://monisha95.netlify.app/
 
 💻 GitHub  
 https://github.com/Monisha09-ds
